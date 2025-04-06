@@ -1,3 +1,3 @@
-- Hi, I’m @NoahV
+- Hi, I’m Noah
 - I’m currently learning Java Development
 - 📫 How to reach me: nv.development@outlook.com
